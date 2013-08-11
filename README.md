@@ -1,6 +1,6 @@
 A place for interview questions/topics.
 
-## Topics
+### Topics
 
 #### Functional Programming
 A programming paradigm based on functions whose outputs depend solely
@@ -20,7 +20,7 @@ to sovle these problems just once - memoization is often used to
 remember solutions to subproblems so they do not need to be solved again.
 Aside: described by Wikipedia as an "intelligent brute force" method.
 
-## Trivia
+### Trivia
 
 #### MYSQL
 * For TEXT fields you get a pointer to storage somewhere else where
