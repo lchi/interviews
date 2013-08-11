@@ -4,7 +4,7 @@ A place for interview questions/topics.
 
 ## Trivia
 
-### MYSQL
+#### MYSQL
 * For TEXT fields you get a pointer to storage somewhere else where
 the actual data is stored - this means that queries on TEXT fields are
 usually expensive because of non-sequential disk accesses
